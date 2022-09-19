@@ -1,0 +1,25 @@
+:root {
+	--text-color: #50555e;
+}
+body {
+	margin: 0px;
+	box-sizing: border-box;
+}
+h2 {
+	margin: 0px;
+}
+* {
+	font-family: "Montserrat", sans-serif;
+}
+.container__section {
+	height: 100vh;
+}
+.container__section#one {
+	background-color: cornflowerblue;
+}
+.container__section#two {
+	background-color: rgb(189, 237, 100);
+}
+.container__section#three {
+	background-color: #effe5e;
+}
